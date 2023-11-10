@@ -3,7 +3,7 @@
 cmake-build-debug/
 
 ### IntelliJ ###
-.idea2
+.idea
 *.iws
 *.iml
 *.ipr
